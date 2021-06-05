@@ -30,19 +30,21 @@ This repository contains:
  5. Master_thesis.pdf
     
 Software used:
-Windows	10 - 64bit
-WinCC	v.7.5 SP1 Upd2
-PostgreSQL	v.13.1
-pgAdmin v.4.28
-DbSchema v.8.4.2
-VMware Workstation Player	v.16.0
-Visual studio code v.1.55.2
-Python v.3.8.8 (64bit)
-Anaconda v.4.10.0
-pandas v.1.1.3
-sqlalchemy v.1.3.20
-numpy v.1.19.2
-matplotlib v.3.3.2
-scikit-learn v.0.32.2
+- Windows	10 - 64bit
+- WinCC	v.7.5 SP1 Upd2
+- PostgreSQL	v.13.1
+- pgAdmin v.4.28
+- DbSchema v.8.4.2
+- VMware Workstation Player	v.16.0
+- Visual studio code v.1.55.2
+- Python v.3.8.8 (64bit)
+- Anaconda v.4.10.0
+- pandas v.1.1.3
+- sqlalchemy v.1.3.20
+- numpy v.1.19.2
+- matplotlib v.3.3.2
+- scikit-learn v.0.32.2
+
+
 
 
