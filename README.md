@@ -12,9 +12,10 @@ Keywords: scada, hmi, classification, regression, svm, multi-output, stream, pro
 This repository contains:
 1. HMI application (Hydraulic_Unit_HMI_WinCC_2021-06-05.7z).
   - developed as simulator for controlled process and operator control actions (corrective measures to the system).
+  - all field devices ared simulated by VBS.
 2. [dbHMI_tables.sql](dbHMI_tables.sql)
   - tables created in dbHMI (pg database) containing tag(signal/variable) values gathered from the HMI.
-3. [FullDataSet.csv](FullDataSet.csv)
+3. Test dataset (FullDataSet.csv)
   - file containig full dataframe used in thesis.
   - created by python code after connectiong to dbHMI and forming dataframe.   
 4.  [SQL_and_Regression_and_SVM.PY](SQL_and_Regression_and_SVM.PY)
