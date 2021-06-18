@@ -14,7 +14,7 @@ This repository contains:
   - developed as simulator for controlled process and operator control actions (corrective measures to the system).
 2. [dbHMI_tables.sql](dbHMI_tables.sql)
   - tables created in dbHMI (pg database) containing tag(signal/variable) values gathered from the HMI.
-3. FullDataSet.csv
+3. [FullDataSet.csv](FullDataSet.csv)
   - file containig full dataframe used in thesis.
   - created by python code after connectiong to dbHMI and forming dataframe.   
 4.  [SQL_and_Regression_and_SVM.PY](SQL_and_Regression_and_SVM.PY)
