@@ -28,7 +28,7 @@ This repository contains:
     (Variance Inflation Factor-VIF, Heat Maps, Feature importance, df boxplot, class ratio barplot...)
   - this code can be used without connection to db, by reading provided FullDataSet.csv directly.
  5. Master_thesis.pdf
- 6.  [here](Diplomski_LinReg_SVM/Master_thesis.pdf)
+ 6.  [here](myLib/Master_thesis.pdf)
     
 Software used:
 - Windows	10 - 64bit
